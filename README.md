@@ -6,7 +6,7 @@ Copy MongoDB cert into directory
 CERTS='./certs/X509-cert.pem'
 ```
 
-Run Server (wont connect without certs)
+Run Server
 ```
 > cd blank-slate-editor/server/
 > node server.js
