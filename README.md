@@ -19,3 +19,8 @@ Run Client (webpack)
 ```
 > cd client
 > npm start
+
+
+Note
+
+Using `17.0.2` version of react and react-dom in client, because react-draft-wysiwyg doesn't support react v18 yet. https://github.com/jpuri/react-draft-wysiwyg/pull/1245

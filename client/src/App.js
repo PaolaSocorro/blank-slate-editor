@@ -12,7 +12,7 @@ const App = () => {
   return (
     <div className="App">
       <header className="App-header">
-        Editor Example
+       Blank Slate Editor
       </header>
       <ControlledEditor/>
     </div>
